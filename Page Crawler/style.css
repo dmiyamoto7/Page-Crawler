@@ -1,0 +1,2 @@
+body{min-width:300px;margin:8px 8px 4px 8px;font-size:13px}#wrapper{margin:4px 0 14px 0}.toggle-panel{cursor:pointer;margin:0 0 4px 0}.toggle-panel:after{font-family:'Glyphicons Halflings';content:"\e114";float:left;margin:0 0 0 10px;color:grey}.toggle-panel.collapsed:after{content:"\e080"}label{font-weight:normal}textarea.form-control{font-size:11px}
+		button {height:20px;width:80px;outline: none;font-family: "Helvetica", "Arial", sans-serif;font-size: 12px;font-weight: bold;color: #FFFFFF;background-color: #5995DA;border: none;border-radius: 3px;cursor: pointer;}
